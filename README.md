@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Utilizo https://dummyjson.com/ para generar los productos en este Demo.
+App React que simula un ecommerce, los estilos con Tailwind CSS.
 
 Demo del proyecto:
 
@@ -8,8 +8,9 @@ https://media.giphy.com/media/Wp3tIvG9XDebwDXJ40/giphy.gif
 
 https://www.awesomescreenshot.com/video/13439619?key=0768be8e05b511ce89c4d89ebb535eb9
 
-Nota: Al agregar productos al Carrito se genera un Alert que no es visible en el video por tratarse de otra pantalla
-Si el Contador supera al Stock no se lanza el callBack.
+
+Utilizo API https://dummyjson.com/ para generar los productos fake que se muestran en esta app.
+
 
 --------------------
 
