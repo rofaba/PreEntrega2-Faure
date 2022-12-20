@@ -6,6 +6,8 @@ Demo del proyecto:
 
 https://media.giphy.com/media/Wp3tIvG9XDebwDXJ40/giphy.gif
 
+https://www.awesomescreenshot.com/video/13439619?key=0768be8e05b511ce89c4d89ebb535eb9
+
 Nota: Al agregar productos al Carrito se genera un Alert que no es visible en el video por tratarse de otra pantalla
 Si el Contador supera al Stock no se lanza el callBack.
 
