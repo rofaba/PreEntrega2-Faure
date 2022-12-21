@@ -2,11 +2,11 @@
 
 App React que simula un ecommerce, los estilos con Tailwind CSS.
 
-Demo del proyecto:
+Muestra del proyecto:
 
-https://media.giphy.com/media/Wp3tIvG9XDebwDXJ40/giphy.gif
+GIF: https://media.giphy.com/media/Wp3tIvG9XDebwDXJ40/giphy.gif
 
-https://www.awesomescreenshot.com/video/13439619?key=0768be8e05b511ce89c4d89ebb535eb9
+VIDEO: https://www.awesomescreenshot.com/video/13439619?key=0768be8e05b511ce89c4d89ebb535eb9
 
 
 Utilizo API https://dummyjson.com/ para generar los productos fake que se muestran en esta app.
